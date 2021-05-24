@@ -1,10 +1,3 @@
-'''
-作者：魏嘉鲲
-版本：1.0
-日期：2021.5.14
-功能：小球碰撞游戏
-'''
-
 from tkinter import *
 import random
 import time
